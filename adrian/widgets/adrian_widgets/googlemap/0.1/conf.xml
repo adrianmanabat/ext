@@ -1,6 +1,0 @@
-<widget>
-  <widgetClass>tooltwist.adrian.widgets.GooglemapWidget</widgetClass>
-  <idWithinRootWidget>0</idWithinRootWidget>
-  <label>map widget</label>
-  <description>Google map widgeet</description>
-</widget>

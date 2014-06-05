@@ -1,6 +1,0 @@
-<widget>
-  <widgetClass>tooltwist.adrian.widgets.LinkWidget</widgetClass>
-  <idWithinRootWidget>0</idWithinRootWidget>
-  <label>Link</label>
-  <description>Link Widget</description>
-</widget>
