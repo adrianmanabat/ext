@@ -1,0 +1,6 @@
+<widget>
+  <widgetClass>tooltwist.adrian.widgets.NameWidget</widgetClass>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <label>name</label>
+  <description>Name Widget</description>
+</widget>
